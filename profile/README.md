@@ -1,7 +1,7 @@
 # DaisyDisk Mac App – Visual Disk Space Analyzer
 
 <div align="center">
-<img src="https://static.macupdate.com/app-gallery/136/m/image1-main-image.jpg?v=1659089265" alt="DaisyDisk Logo" width="256" height="256">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkzkCvLSgHIfHGPPqlbVFZ0n99wSL7BbD3Sg&s" alt="DaisyDisk Logo" width="256" height="256">
 </div>
 
 <div align="center">
